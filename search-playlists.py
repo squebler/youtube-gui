@@ -33,7 +33,9 @@ def initialize():
 
     i = 1
     for playlist in response["items"]:
-        playlists.append(playlist["snippet"]["title"])
+        title = playlist['snippet']['title']
+        url = f"https://www.youtube.com/playlist?list={playlist['id']}"
+        playlists.append(f"{title}\n{url}")
         print(f"{i}: {playlists[-1]}")
         i+=1
 
@@ -44,7 +46,9 @@ def initialize():
             print('Error response status code : {0}, reason : {1}'.format(e.status_code, e.error_details))
         
         for playlist in response["items"]:
-            playlists.append(playlist["snippet"]["title"])
+            title = playlist['snippet']['title']
+            url = f"https://www.youtube.com/playlist?list={playlist['id']}"
+            playlists.append(f"{title}\n{url}")
             print(f"{i}: {playlists[-1]}")
             i+=1
 
@@ -55,7 +59,7 @@ def set_list(playlists):
     text_list.config(state=tk.NORMAL)
     text_list.delete("1.0",tk.END)
     for pl in playlists:
-        text_list.insert(tk.END,f"{pl}\n")
+        text_list.insert(tk.END,f"{pl}\n\n")
     text_list.config(state=tk.DISABLED)
 
 def search():
@@ -71,7 +75,7 @@ def search():
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 client_secrets_file = 'client_secret.json'
 playlists = []
-mode = "fake"
+mode = "real"
 
 
 fontSize = 25
