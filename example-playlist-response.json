@@ -1,0 +1,236 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "8qxNt6VercBXuYJ0mGsnGpWOcCs",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 292,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "0lxeycqqIgbn7CNGInIcc7l4ptI",
+            "id": "PLVoXyJtfHw0hQ_JsCaKr8zoAr5DMu4yS4",
+            "snippet": {
+                "publishedAt": "2024-02-13T13:49:11Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "frustration & short temper",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iZU9Un_vaaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iZU9Un_vaaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iZU9Un_vaaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iZU9Un_vaaM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "frustration & short temper",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ke70bL2JPOmlXdzrt2FdP18hCw4",
+            "id": "PLVoXyJtfHw0j0PuiMQA2USv1L8-qnE4Wb",
+            "snippet": {
+                "publishedAt": "2024-02-12T07:14:39Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "food for thought",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z0SJNkzOiq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z0SJNkzOiq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z0SJNkzOiq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z0SJNkzOiq4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z0SJNkzOiq4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "food for thought",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "wgmzTJp-Zf-ZXr6miqZ9ndqIhvY",
+            "id": "PLVoXyJtfHw0iB_6N2ce1JC9FSyp89SyDq",
+            "snippet": {
+                "publishedAt": "2024-02-10T17:29:05Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Smartphones",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B-d97ZrAJZ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B-d97ZrAJZ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B-d97ZrAJZ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B-d97ZrAJZ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B-d97ZrAJZ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Smartphones",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "a1ZMmqTPHSsPs0A-aRIaXF1X1VI",
+            "id": "PLVoXyJtfHw0g0p56VbmVHzHqWp9jvmg0I",
+            "snippet": {
+                "publishedAt": "2024-02-09T12:19:31Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Listen Later",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_hRmML2uO0A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_hRmML2uO0A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_hRmML2uO0A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_hRmML2uO0A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_hRmML2uO0A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Listen Later",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VK4N0uyTEywuuylmPBSTHMddzuY",
+            "id": "PLVoXyJtfHw0hxJI_LgMQ9zpNava0UzGmc",
+            "snippet": {
+                "publishedAt": "2024-02-05T02:50:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Gym Safety",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JDWlyQ64m0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JDWlyQ64m0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JDWlyQ64m0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JDWlyQ64m0M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JDWlyQ64m0M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Gym Safety",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+# poetry
+poetry.lock
+
+# pyinstaller
+build/
+dist/
+*.spec
+
+# MS Office cache files
+~$*
+
+# youtube-gui
+client_secret.json
+temp.*
+
