@@ -18,6 +18,9 @@ def deleteFakeResponses():
 
 
 def saveFakeResponse(response, iResponse):
+    if mode == "fake":
+        return
+
     if iResponse == 0:
         deleteFakeResponses()
     
@@ -26,35 +29,55 @@ def saveFakeResponse(response, iResponse):
         fakeResponseFile.write(responseJson)
 
 
-def initialize():
+def getFakeResponse(iResponse):
+    fakeResponseFileName = getFakeResponseFileName(iResponse)
+    if not os.path.exists(fakeResponseFileName):
+        return None
+    with open(fakeResponseFileName,'r') as fakeResponseFile:
+        fakeResponseJson = fakeResponseFile.read()
+        fakeResponse = json.loads(fakeResponseJson)
+        return fakeResponse
+
+
+def executeRequest(request, iResponse):
     if mode == "fake":
-        with open("fake-playlists.txt", encoding="utf-8") as fakePlaylistsFile:
-            for line in fakePlaylistsFile:
-                playlists.append(line.strip())
-        playlists.sort(key=str.lower)
-        return
-
-    flow = InstalledAppFlow.from_client_secrets_file(client_secrets_file, scopes=scopes)
-    credentials = flow.run_local_server(open_browser=True)
-
-    youtube = build('youtube','v3',credentials=credentials)
+        return getFakeResponse(iResponse)
+    try:
+        response = request.execute()
+    except HTTPError as e:
+        print('Error response status code : {0}, reason : {1}'.format(e.status_code, e.error_details))
+        raise
+    saveFakeResponse(response, iResponse)
+    return response
 
 
-    resultsPerPage = 1000
-    request = youtube.playlists().list(
-        part="snippet,contentDetails",
-        mine=True,
-        maxResults=resultsPerPage
-    )
+def initialize():
+    # if mode == "fake":
+    #     with open("fake-playlists.txt", encoding="utf-8") as fakePlaylistsFile:
+    #         for line in fakePlaylistsFile:
+    #             playlists.append(line.strip())
+    #     playlists.sort(key=str.lower)
+    #     return
 
-    def executeRequest(request, iResponse):
-        try:
-            response = request.execute()
-        except HTTPError as e:
-            print('Error response status code : {0}, reason : {1}'.format(e.status_code, e.error_details))
-            raise
-        saveFakeResponse(response, iResponse)
-        return response
+    def buildInitialPlaylistsRequest():
+        if mode == "fake":
+            return None, None
+
+        flow = InstalledAppFlow.from_client_secrets_file(client_secrets_file, scopes=scopes)
+        credentials = flow.run_local_server(open_browser=True)
+
+        youtube = build('youtube','v3',credentials=credentials)
+
+
+        resultsPerPage = 1000
+        request = youtube.playlists().list(
+            part="snippet,contentDetails",
+            mine=True,
+            maxResults=resultsPerPage
+        )
+        return request, youtube
+    
+    request, youtube = buildInitialPlaylistsRequest()
 
     iResponse = -1
     response = executeRequest(request, iResponse := iResponse + 1)
@@ -67,7 +90,15 @@ def initialize():
         print(f"{i}: {playlists[-1]}")
         i+=1
 
-    while request := youtube.playlists().list_next(previous_request=request, previous_response=response):
+    def buildPlaylistsNextPageRequest(request):
+        if mode == "fake":
+            if getFakeResponse(iResponse+1):
+                return "fakeRequest"
+            return None
+        request = youtube.playlists().list_next(previous_request=request, previous_response=response)
+        return request
+
+    while request := buildPlaylistsNextPageRequest(request):
         response = executeRequest(request, iResponse := iResponse + 1)
         
         for playlist in response["items"]:
