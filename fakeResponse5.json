@@ -1,0 +1,1853 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "R83dO9TdBpeajtKyDLQ__vwHJmw",
+    "prevPageToken": "CPoBEAE",
+    "pageInfo": {
+        "totalResults": 294,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "nly_zdWZWXE4CsWZ1hPhjLm22nM",
+            "id": "PLVoXyJtfHw0hEgMZucMF8YuuGaIWFmwB5",
+            "snippet": {
+                "publishedAt": "2020-07-11T07:17:03Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "playlist-004",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c54P5qA-UP0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c54P5qA-UP0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c54P5qA-UP0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c54P5qA-UP0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c54P5qA-UP0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "playlist-004",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ZB_TSFFyC3KA8RpRleJrf4MFWLQ",
+            "id": "PLVoXyJtfHw0iVn07QrYklaYVIG17xN9Vx",
+            "snippet": {
+                "publishedAt": "2020-07-07T06:13:46Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "playlist-003",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RK8e4JQgPfo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RK8e4JQgPfo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RK8e4JQgPfo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RK8e4JQgPfo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RK8e4JQgPfo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "playlist-003",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3T6fOL9MKTL7WDRYonhnoKgeASA",
+            "id": "PLVoXyJtfHw0ic4tRk6M5rHGsGgIg1YAPg",
+            "snippet": {
+                "publishedAt": "2020-07-01T06:47:14Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese - original and great",
+                "description": "The songs here should seem like they were really original, truly inspired, but also be enjoyable. \u30d1\u30b9\u30d4\u30a8\u30fb\u3068\u3046\u308a\u3083\u3093\u305b is my original inspiration for this list.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/--pQC5XH2-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/--pQC5XH2-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/--pQC5XH2-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/--pQC5XH2-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese - original and great",
+                    "description": "The songs here should seem like they were really original, truly inspired, but also be enjoyable. \u30d1\u30b9\u30d4\u30a8\u30fb\u3068\u3046\u308a\u3083\u3093\u305b is my original inspiration for this list."
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "JYxqtpANOVwFo1JbksLkoPRxZ9E",
+            "id": "PLVoXyJtfHw0jf_4jlnqoZG5fiahv2cpK5",
+            "snippet": {
+                "publishedAt": "2020-06-30T01:51:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese-003",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H7fjqfSU0bY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H7fjqfSU0bY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H7fjqfSU0bY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H7fjqfSU0bY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H7fjqfSU0bY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese-003",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pPFxwjZto8qKcNHFtlTakGsdtFU",
+            "id": "PLVoXyJtfHw0jwr2qEL1gcgZ06lUOUMMQN",
+            "snippet": {
+                "publishedAt": "2020-06-29T20:19:22Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese-002",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cax9lqV9gQQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cax9lqV9gQQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cax9lqV9gQQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cax9lqV9gQQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cax9lqV9gQQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese-002",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "70RpBCB0R8_ONNbeCAsa2I3NP5k",
+            "id": "PLVoXyJtfHw0gmCqW39ywkRdPWeQhrNw6I",
+            "snippet": {
+                "publishedAt": "2020-06-28T07:45:30Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese-004",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yWB3bYK3-E4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yWB3bYK3-E4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yWB3bYK3-E4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yWB3bYK3-E4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yWB3bYK3-E4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese-004",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "56ECHQRNzIpfq-9tHbt5-6BY9KA",
+            "id": "PLVoXyJtfHw0g9Hru69RKhHEZeC58LWAas",
+            "snippet": {
+                "publishedAt": "2020-06-19T18:51:40Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese-000",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n5CwXuyNfoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n5CwXuyNfoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n5CwXuyNfoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n5CwXuyNfoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese-000",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 36
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7bRsk9MO9QwlUrrvZ4OX0wwaAI0",
+            "id": "PLVoXyJtfHw0gk15P2y_oNd8rElQJgEmrY",
+            "snippet": {
+                "publishedAt": "2020-05-26T05:58:16Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Shoes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cum6xWaJssk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cum6xWaJssk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cum6xWaJssk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cum6xWaJssk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cum6xWaJssk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Shoes",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OG6BF92JpLOo5ckx7cv5i8kgr_k",
+            "id": "PLVoXyJtfHw0icDsB61BMeS1w-Vzh-4KKy",
+            "snippet": {
+                "publishedAt": "2020-04-27T03:30:41Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "playlist-002",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4lb6ZRK8SA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4lb6ZRK8SA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4lb6ZRK8SA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4lb6ZRK8SA8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4lb6ZRK8SA8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "playlist-002",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6yowCwahjqi4JT4TH1yFi0YmOHc",
+            "id": "PLVoXyJtfHw0go_0USa8A_mTw213QmiQzb",
+            "snippet": {
+                "publishedAt": "2020-04-18T03:04:28Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "playlist-001",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fes1qKJVm8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fes1qKJVm8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fes1qKJVm8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fes1qKJVm8o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fes1qKJVm8o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "playlist-001",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "o2nowbaAI257UqSDX2G-dhEQO5I",
+            "id": "PLVoXyJtfHw0jwAMP_7TAo41gpMC-cO_oP",
+            "snippet": {
+                "publishedAt": "2020-04-03T00:29:31Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "concentration background music - warrior version",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fsSUPledKHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fsSUPledKHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fsSUPledKHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fsSUPledKHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fsSUPledKHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "concentration background music - warrior version",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "gciXD6wCLcEKvv6UsiAPXRy6NBY",
+            "id": "PLVoXyJtfHw0jYvKRSS3CNmrdCxH-VxJR5",
+            "snippet": {
+                "publishedAt": "2020-04-02T06:20:26Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "concentration background music - chill version",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZXfBHCbG2o8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZXfBHCbG2o8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZXfBHCbG2o8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZXfBHCbG2o8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZXfBHCbG2o8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "concentration background music - chill version",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 17
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "vvEwFNgx9i_3Y4XEkXzd2x8oQtA",
+            "id": "PLVoXyJtfHw0ifuIHoHih1pnVGk4zOGd-t",
+            "snippet": {
+                "publishedAt": "2020-04-02T05:43:45Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "lilac",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQ3V50XoLOM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQ3V50XoLOM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQ3V50XoLOM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GQ3V50XoLOM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GQ3V50XoLOM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "lilac",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OvlyzdUyiEUTjOmSKPAPqkuuJ3E",
+            "id": "PLVoXyJtfHw0gOkraQVxxX-kCtqrinnb9t",
+            "snippet": {
+                "publishedAt": "2020-03-25T05:56:42Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Computer History",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dHR3xoRT-4M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dHR3xoRT-4M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dHR3xoRT-4M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dHR3xoRT-4M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dHR3xoRT-4M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Computer History",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "jNYuwz2JerWF9xdxPswF5JEJxDs",
+            "id": "PLVoXyJtfHw0iEKBRNrRh68e9PHbB8O0zm",
+            "snippet": {
+                "publishedAt": "2020-03-15T00:50:00Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "How Vaccines Work",
+                "description": "From simpler descriptions, to more detailed.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bB--I473NiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bB--I473NiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bB--I473NiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bB--I473NiE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bB--I473NiE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "How Vaccines Work",
+                    "description": "From simpler descriptions, to more detailed."
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WkNhFzkcxOEvGTZsMtGahc_Dy94",
+            "id": "PLVoXyJtfHw0iQ3K9ICrdUuxYSslZy4_3p",
+            "snippet": {
+                "publishedAt": "2020-02-17T06:14:10Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "GARNiDELiA - video",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Omg-kRwcw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Omg-kRwcw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Omg-kRwcw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9Omg-kRwcw8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9Omg-kRwcw8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "GARNiDELiA - video",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9BNWHAZc2V_MvibxvRtCKTWGijs",
+            "id": "PLVoXyJtfHw0g2ToteTMvFU_YMR66TDTmD",
+            "snippet": {
+                "publishedAt": "2019-12-23T05:07:55Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Video Game Shopping",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x82qqN0gdGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x82qqN0gdGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x82qqN0gdGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x82qqN0gdGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x82qqN0gdGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Video Game Shopping",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Ulx49MlSryQgOpEMBEFbHii5QQU",
+            "id": "PLVoXyJtfHw0itOkPUPlvMqb5lODBjEyKG",
+            "snippet": {
+                "publishedAt": "2019-12-10T21:09:08Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Cooking",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pIv16QYUIMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pIv16QYUIMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pIv16QYUIMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pIv16QYUIMs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pIv16QYUIMs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Cooking",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9_7uxJ4keHsh0AIek9csavy-xo8",
+            "id": "PLVoXyJtfHw0hoj19KyuKoJGWGlX3GbiZP",
+            "snippet": {
+                "publishedAt": "2019-12-07T03:56:37Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Realistic Skyrim",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7CvCk3U4kOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7CvCk3U4kOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7CvCk3U4kOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7CvCk3U4kOs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7CvCk3U4kOs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Realistic Skyrim",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "NeqZ9UoHTKsD1ifzEQ4N4mLwbxs",
+            "id": "PLVoXyJtfHw0j2pli4QvHp8-CFF4fwJvWk",
+            "snippet": {
+                "publishedAt": "2019-12-04T08:06:57Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Ambiance (Sound)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-IEAfnRneP4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-IEAfnRneP4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-IEAfnRneP4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-IEAfnRneP4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-IEAfnRneP4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Ambiance (Sound)",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Fp_38dhlQb5xMO034Wmu6a_ryDE",
+            "id": "PLVoXyJtfHw0irzwtFIYcD__Fcr0J4tgoC",
+            "snippet": {
+                "publishedAt": "2019-12-04T06:39:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Background Videos",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6uhRxK_EOm4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6uhRxK_EOm4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6uhRxK_EOm4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6uhRxK_EOm4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6uhRxK_EOm4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Background Videos",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "2alhIuQnwajrAoJgzwCtIW11778",
+            "id": "PLVoXyJtfHw0hfMwuu2WOxj7_Zc-n4g2Yu",
+            "snippet": {
+                "publishedAt": "2019-08-13T00:56:31Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Motivation",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rp29BYtee2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rp29BYtee2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rp29BYtee2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rp29BYtee2w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rp29BYtee2w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Motivation",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 8
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ujkRFnZSnsUd8wlKA_5TvybCt_o",
+            "id": "PLVoXyJtfHw0iFwz7IKCIlaexAQNnDpmjG",
+            "snippet": {
+                "publishedAt": "2019-08-05T06:31:06Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Linux",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HbgzrKJvDRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HbgzrKJvDRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HbgzrKJvDRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HbgzrKJvDRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HbgzrKJvDRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Linux",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VICg6RyxgAbObhkQk7_zbwT15IM",
+            "id": "PLVoXyJtfHw0iLw-Ur5VlSDmt5qOVClljU",
+            "snippet": {
+                "publishedAt": "2019-08-03T20:54:27Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Natural Japanese Conversations",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bL1opmKxcCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bL1opmKxcCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bL1opmKxcCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bL1opmKxcCg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bL1opmKxcCg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Natural Japanese Conversations",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 18
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "mcGO73fBVKFLDgCYp8SmWOe9gaI",
+            "id": "PLVoXyJtfHw0gViqTSu4p7t7FdLRMpreSK",
+            "snippet": {
+                "publishedAt": "2019-06-22T17:13:55Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Study",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sJjJ_Zo0CBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sJjJ_Zo0CBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sJjJ_Zo0CBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sJjJ_Zo0CBY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sJjJ_Zo0CBY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Study",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "asTjaznN6g6zg3thp4TGXua5fQE",
+            "id": "PLVoXyJtfHw0gyBAP_OOAYd1XS2yv47cuI",
+            "snippet": {
+                "publishedAt": "2019-04-17T05:25:35Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "playlist-000",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "playlist-000",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 14
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "aGO5layYk_R9AockUW9Pn7KbIas",
+            "id": "PLVoXyJtfHw0jzeUYj3XYRrj21La9NCSOT",
+            "snippet": {
+                "publishedAt": "2019-03-12T17:42:45Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Co Shu Nie",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_vVAX0vkw5g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_vVAX0vkw5g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_vVAX0vkw5g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_vVAX0vkw5g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_vVAX0vkw5g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Co Shu Nie",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 10
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dKSUpOE3VB1BY-dxz0vXJtEWy2M",
+            "id": "PLVoXyJtfHw0guX3UjXo4ycNfbshxtmgB1",
+            "snippet": {
+                "publishedAt": "2019-02-17T20:43:39Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "reol",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EFTV3IIjeNw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EFTV3IIjeNw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EFTV3IIjeNw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EFTV3IIjeNw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EFTV3IIjeNw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "reol",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "QCtXL8Tx7IRVn3dLC08Xzt9Igyw",
+            "id": "PLVoXyJtfHw0ipdxQUL3uKNyAZLXYbnz-Q",
+            "snippet": {
+                "publishedAt": "2018-11-03T03:41:13Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Favorite Playlists",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Favorite Playlists",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 0
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ChWzEyfKTmjw3uEjek5wld-zcAk",
+            "id": "PLVoXyJtfHw0g4Aww95rvqP1gcnkggN92x",
+            "snippet": {
+                "publishedAt": "2018-05-21T07:04:58Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "cyberpunk 2077",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gzJkkE3lTuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gzJkkE3lTuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gzJkkE3lTuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gzJkkE3lTuc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gzJkkE3lTuc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "cyberpunk 2077",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "HCcKLhTjB9ixQW3OpkM4jobEdKY",
+            "id": "PLVoXyJtfHw0j2-JA0hHJDHf8XPRdz_Nd0",
+            "snippet": {
+                "publishedAt": "2018-04-15T10:11:30Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Uncle's Truck Noise Spring 2018",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fh9KqLX1Er8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fh9KqLX1Er8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fh9KqLX1Er8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fh9KqLX1Er8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Uncle's Truck Noise Spring 2018",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Gscm2KJ-5jWT3QwOokDc0tf26y8",
+            "id": "PLVoXyJtfHw0iEuVUyk82DxTSMRbNapi_3",
+            "snippet": {
+                "publishedAt": "2017-11-13T08:35:26Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "skyrim atmosphere",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hBkcwy-iWt8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hBkcwy-iWt8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hBkcwy-iWt8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hBkcwy-iWt8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hBkcwy-iWt8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "skyrim atmosphere",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 6
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "q13lS7JHZcT-BdP9N1FtBmMcVq0",
+            "id": "PLVoXyJtfHw0iKVIyOHWOkPitRSDmVzr6K",
+            "snippet": {
+                "publishedAt": "2017-09-28T03:33:17Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "current playlist",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PCp2iXA1uLE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PCp2iXA1uLE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PCp2iXA1uLE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PCp2iXA1uLE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "current playlist",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 30
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "CJ58Ce6JGiOnHy48IgTvOBHIJjk",
+            "id": "PLVoXyJtfHw0iy55VIhLhkWs8HYEzXPevx",
+            "snippet": {
+                "publishedAt": "2017-07-07T06:25:56Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Important",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EBgugeKaJa8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EBgugeKaJa8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EBgugeKaJa8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EBgugeKaJa8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EBgugeKaJa8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Important",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 28
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "SxCVQjsV0_nWJF12YSSe6ODXS64",
+            "id": "PLVoXyJtfHw0iuCtLtnu2RusZSdTgv2EeW",
+            "snippet": {
+                "publishedAt": "2016-10-27T04:40:06Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "How to Drive",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z3oq3qlrgHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z3oq3qlrgHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z3oq3qlrgHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z3oq3qlrgHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z3oq3qlrgHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "How to Drive",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "FHgdDpWgekNDvtTdmlJje1nRDUI",
+            "id": "PLVoXyJtfHw0jU61kF0qVKduZrpBGgwJ_t",
+            "snippet": {
+                "publishedAt": "2016-10-15T18:29:56Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Jeep YJ Maintenance & Repair",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nk2irWrhA7Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nk2irWrhA7Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nk2irWrhA7Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nk2irWrhA7Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nk2irWrhA7Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Jeep YJ Maintenance & Repair",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "1jYWVZ81qPL4O7dvN1sizXM0u-A",
+            "id": "PLVoXyJtfHw0gcF76Lc5MepHEt1jNxMDD-",
+            "snippet": {
+                "publishedAt": "2016-09-24T16:14:16Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Simon Sinek",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/llKvV8_T95M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/llKvV8_T95M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/llKvV8_T95M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Simon Sinek",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "duR9_ov0fGgR6xvtFgXwvdMol7I",
+            "id": "PLVoXyJtfHw0j02lgvZZb0HCBmWPqNQ8st",
+            "snippet": {
+                "publishedAt": "2016-09-19T07:44:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Exercise for Programmers",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tp8KPPffIJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tp8KPPffIJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tp8KPPffIJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tp8KPPffIJw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tp8KPPffIJw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Exercise for Programmers",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 54
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ow0JkOG_HSDkP6-yZ6Bov4J8aGc",
+            "id": "PLVoXyJtfHw0jxGQU5QJPWivBv0RSDRk2T",
+            "snippet": {
+                "publishedAt": "2016-08-13T05:50:44Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Japanese Marriage",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZcadmGkHvVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZcadmGkHvVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZcadmGkHvVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZcadmGkHvVI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZcadmGkHvVI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Japanese Marriage",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 10
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "e_PgQWiJDPrD_tWnTv-ftL3WKtM",
+            "id": "PLVoXyJtfHw0hGNReVIBqESlxFXV1qzwZL",
+            "snippet": {
+                "publishedAt": "2016-05-18T14:38:42Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "me! me! me!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BEOfqJh8GvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BEOfqJh8GvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BEOfqJh8GvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BEOfqJh8GvA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BEOfqJh8GvA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "me! me! me!",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "hD57e-G7bX5z9FSfbSXX8w9Ux9I",
+            "id": "FLKWhX7Sei5el7USJJaupZrA",
+            "snippet": {
+                "publishedAt": "2011-03-08T01:53:14Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Favorites",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JI5lCwpzJLQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JI5lCwpzJLQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JI5lCwpzJLQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JI5lCwpzJLQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Favorites",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 183
+            }
+        }
+    ]
+}

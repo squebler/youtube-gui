@@ -1,8 +1,30 @@
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 import json
+import os
 from requests import HTTPError
 import tkinter as tk
+
+
+def getFakeResponseFileName(iResponse):
+    return f"fakeResponse{iResponse}.json"
+
+
+def deleteFakeResponses():
+    iResponse = 0    
+    while os.path.exists(fakeResponseFileName := getFakeResponseFileName(iResponse)):
+        os.remove(fakeResponseFileName)
+        iResponse += 1
+
+
+def saveFakeResponse(response, iResponse):
+    if iResponse == 0:
+        deleteFakeResponses()
+    
+    responseJson = json.dumps(response, indent=4)
+    with open(getFakeResponseFileName(iResponse),'w') as fakeResponseFile:
+        fakeResponseFile.write(responseJson)
+
 
 def initialize():
     if mode == "fake":
@@ -25,11 +47,18 @@ def initialize():
         maxResults=resultsPerPage
     )
 
-    try:
-        response = request.execute()
-    except HTTPError as e:
-        print('Error response status code : {0}, reason : {1}'.format(e.status_code, e.error_details))
+    def executeRequest(request, iResponse):
+        try:
+            response = request.execute()
+        except HTTPError as e:
+            print('Error response status code : {0}, reason : {1}'.format(e.status_code, e.error_details))
+            raise
+        saveFakeResponse(response, iResponse)
+        return response
 
+    iResponse = 0
+    response = executeRequest(request, iResponse)
+    iResponse += 1
 
     i = 1
     for playlist in response["items"]:
@@ -40,10 +69,8 @@ def initialize():
         i+=1
 
     while request := youtube.playlists().list_next(previous_request=request, previous_response=response):
-        try:
-            response = request.execute()
-        except HTTPError as e:
-            print('Error response status code : {0}, reason : {1}'.format(e.status_code, e.error_details))
+        response = executeRequest(request, iResponse)
+        iResponse += 1
         
         for playlist in response["items"]:
             title = playlist['snippet']['title']
@@ -61,6 +88,7 @@ def set_list(playlists):
     for pl in playlists:
         text_list.insert(tk.END,f"{pl}\n\n")
     text_list.config(state=tk.DISABLED)
+
 
 def search():
     query = entry_search.get()

@@ -1,0 +1,2307 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "gwkKEBvffPL4xb27yFzqnehTESs",
+    "nextPageToken": "CJYBEAA",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+        "totalResults": 294,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "ar12UrveP2Bexc1qD_-BvkruBxY",
+            "id": "PLVoXyJtfHw0gZTNFfqcLgEdf36XkdM7RI",
+            "snippet": {
+                "publishedAt": "2023-01-02T06:16:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Thought Provoking",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kBF2L03fxy8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kBF2L03fxy8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kBF2L03fxy8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kBF2L03fxy8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kBF2L03fxy8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Thought Provoking",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YjsfOZpQpXT-78ACq2ngl2ggUi0",
+            "id": "PLVoXyJtfHw0jErkQXnyX9GmHlmDPbvU6N",
+            "snippet": {
+                "publishedAt": "2023-01-02T01:02:43Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "AUNOUTA",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3OE70XulRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3OE70XulRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3OE70XulRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J3OE70XulRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J3OE70XulRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "AUNOUTA",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ZsymZrDRUyDEiXLPJhi1z3xaMpo",
+            "id": "PLVoXyJtfHw0gQTztchO-4hrwmY8vFAk0e",
+            "snippet": {
+                "publishedAt": "2022-12-25T06:53:35Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Bj\u00f6rk",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rZqd_9sTP3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rZqd_9sTP3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rZqd_9sTP3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rZqd_9sTP3c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rZqd_9sTP3c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Bj\u00f6rk",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VZg2wCgUDdaYBWWMADiS6oc-Ty0",
+            "id": "PLVoXyJtfHw0g1_sIAYo2XQi5-wQLWcLa2",
+            "snippet": {
+                "publishedAt": "2022-12-23T17:52:09Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "retro future",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pCR8zw5pdbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pCR8zw5pdbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pCR8zw5pdbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pCR8zw5pdbk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pCR8zw5pdbk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "retro future",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 6
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9Fl0Utg34iMD14u1ccjnfNerdiQ",
+            "id": "PLVoXyJtfHw0hHYeP8gLwDCMf-GPejCzRK",
+            "snippet": {
+                "publishedAt": "2022-12-22T20:43:27Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "stack - Bloody Devotion",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pP2NPHiHEKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pP2NPHiHEKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pP2NPHiHEKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pP2NPHiHEKg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pP2NPHiHEKg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "stack - Bloody Devotion",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 119
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "mn17GnDdcVm8xcD7WOfYHPYpntk",
+            "id": "PLVoXyJtfHw0iXG75eFWhoXF7TVGUdDkBB",
+            "snippet": {
+                "publishedAt": "2022-12-16T19:08:34Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "such",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VQ6xRWxDfpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VQ6xRWxDfpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VQ6xRWxDfpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VQ6xRWxDfpM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VQ6xRWxDfpM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "such",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "B8pFt9WdV0j1vOg4r7lL2C36XlY",
+            "id": "PLVoXyJtfHw0gDGdYdmp21Fl_I_opjFRcW",
+            "snippet": {
+                "publishedAt": "2022-12-13T06:43:12Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Japanese Study",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Na2hA5M2wOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Na2hA5M2wOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Na2hA5M2wOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Na2hA5M2wOw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Na2hA5M2wOw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Japanese Study",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 6
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0QhvIekahqC8AKkkPEt4uDT8VEc",
+            "id": "PLVoXyJtfHw0jLbF_LH_KjJwOOU_F_dRCS",
+            "snippet": {
+                "publishedAt": "2022-12-11T06:10:55Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Body Builder Ronnie Coleman Injury & Pain Story",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_syjJLpbAGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_syjJLpbAGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_syjJLpbAGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_syjJLpbAGs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_syjJLpbAGs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Body Builder Ronnie Coleman Injury & Pain Story",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Iae4vbDxy7EBATPv_A6AxScVZp4",
+            "id": "PLVoXyJtfHw0hv-lhpmGigncwASaHEprlI",
+            "snippet": {
+                "publishedAt": "2022-12-10T00:19:35Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "oshare",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VZMj0Zd373k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VZMj0Zd373k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VZMj0Zd373k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VZMj0Zd373k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VZMj0Zd373k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "oshare",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "kPhSUXRZkOrsNkyva6vn45edyBk",
+            "id": "PLVoXyJtfHw0iIAwN4oUyvj0MYZhf3TCXh",
+            "snippet": {
+                "publishedAt": "2022-12-09T23:37:01Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "chill",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h4fqjbsZSBE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h4fqjbsZSBE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h4fqjbsZSBE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h4fqjbsZSBE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h4fqjbsZSBE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "chill",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "P45AQCO8mkHE9RQbEHo3cXTa-Ek",
+            "id": "PLVoXyJtfHw0jej300dirgioDoA5DxLViQ",
+            "snippet": {
+                "publishedAt": "2022-12-09T19:32:39Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "nachi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i9-r9yyeGP0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i9-r9yyeGP0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i9-r9yyeGP0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i9-r9yyeGP0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i9-r9yyeGP0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "nachi",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "GV5rGwsfBbU9FHbbjeBWh6tNqcA",
+            "id": "PLVoXyJtfHw0ihOKD04aVBsvGsgeDqLshH",
+            "snippet": {
+                "publishedAt": "2022-12-09T16:45:10Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Dance Rush ~Instrumental?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j2Z-JrcGx40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j2Z-JrcGx40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j2Z-JrcGx40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j2Z-JrcGx40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j2Z-JrcGx40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Dance Rush ~Instrumental?",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "EmfeJAR9oq9mfPQMQyue6G3DXcI",
+            "id": "PLVoXyJtfHw0hR4b5yHCvOo9luIDjZyv-G",
+            "snippet": {
+                "publishedAt": "2022-12-09T02:49:08Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Jazz",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Jazz",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4qUV-lRgyy6WMIagqnF4pbkALuc",
+            "id": "PLVoXyJtfHw0hwTUDxWfJOEJoZjC6qXWmH",
+            "snippet": {
+                "publishedAt": "2022-12-04T15:19:42Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Jazz - Cool & Classy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vbUbOTO-ks0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vbUbOTO-ks0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vbUbOTO-ks0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vbUbOTO-ks0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vbUbOTO-ks0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Jazz - Cool & Classy",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 8
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "M4O7U2f4GSgjHPc_kN-jK9jxHro",
+            "id": "PLVoXyJtfHw0j34d-L_E5kcA9tYK5Un43x",
+            "snippet": {
+                "publishedAt": "2022-12-03T23:14:21Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Recap 2022",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Recap 2022",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 100
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dmT7Iogb7trAHZpx415LE09_aV0",
+            "id": "PLVoXyJtfHw0gQIWxUYjhJZiCFjYjjLOMb",
+            "snippet": {
+                "publishedAt": "2022-12-02T22:48:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Fantasy Mystical",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EdQ6WBLa8Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EdQ6WBLa8Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EdQ6WBLa8Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EdQ6WBLa8Yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EdQ6WBLa8Yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Fantasy Mystical",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9dE9nANMGHxk-inOh2yoNSpNC00",
+            "id": "PLVoXyJtfHw0jBnbPyk2CiyIzsQU9_br1S",
+            "snippet": {
+                "publishedAt": "2022-12-01T20:19:21Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Heavy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/INvXAEXRm5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/INvXAEXRm5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/INvXAEXRm5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/INvXAEXRm5U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/INvXAEXRm5U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Heavy",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6F-j6_6jAB-bPy0CJQqYuOPXBJA",
+            "id": "PLVoXyJtfHw0hMkDYwG1dQxxEdcpmRaHiB",
+            "snippet": {
+                "publishedAt": "2022-11-30T05:33:28Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "recipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/57Z9ePyTsjk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/57Z9ePyTsjk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/57Z9ePyTsjk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/57Z9ePyTsjk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/57Z9ePyTsjk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "recipes",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 9
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "E8nQWwleM0Z_czSDz-RoaXnqZn8",
+            "id": "PLVoXyJtfHw0jTa-h0572o0-GKtcI7Rdbd",
+            "snippet": {
+                "publishedAt": "2022-11-29T00:35:21Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "programming security",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cMykd0jScSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cMykd0jScSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cMykd0jScSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cMykd0jScSY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cMykd0jScSY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "programming security",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TgKUPFwJAJOnxEp0xCNdr7AqMrQ",
+            "id": "PLVoXyJtfHw0jYaj4AC1LQV5g7k3lKEopF",
+            "snippet": {
+                "publishedAt": "2022-11-27T07:12:58Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Housing First",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pOHikkpE07A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pOHikkpE07A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pOHikkpE07A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pOHikkpE07A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pOHikkpE07A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Housing First",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "R0KupK-YCBdjNhqbfVaY8rqHy4M",
+            "id": "PLVoXyJtfHw0gyAnpRyHdpDkMBObaOJNlU",
+            "snippet": {
+                "publishedAt": "2022-11-22T05:45:11Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "skyrim mods",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pPHTJo-d2YY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pPHTJo-d2YY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pPHTJo-d2YY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pPHTJo-d2YY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "skyrim mods",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "JDvXyc-Mpum9CFEtWwBinLl9taM",
+            "id": "PLVoXyJtfHw0iN8jWpSDo1WBRDtkAZ096B",
+            "snippet": {
+                "publishedAt": "2022-11-21T04:14:21Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "skyrim playthrough no commentary",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fd1KJ3RWxaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fd1KJ3RWxaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fd1KJ3RWxaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fd1KJ3RWxaw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Fd1KJ3RWxaw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "skyrim playthrough no commentary",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pCjifPTxzt5ds53UwtZuk5purFY",
+            "id": "PLVoXyJtfHw0gwOzG6Av9WWao3Hpxno2Ul",
+            "snippet": {
+                "publishedAt": "2022-11-19T00:17:26Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Clip",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xp805f-j1VI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xp805f-j1VI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xp805f-j1VI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xp805f-j1VI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xp805f-j1VI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Clip",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IQh-7oKH4LbETOCrGaBL0DqW8IA",
+            "id": "PLVoXyJtfHw0gTlO4t8sdMLrdPCro-iCxu",
+            "snippet": {
+                "publishedAt": "2022-11-16T04:36:59Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "rustic living",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lSt96KFFHxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lSt96KFFHxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lSt96KFFHxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lSt96KFFHxA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lSt96KFFHxA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "rustic living",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "j9jFXn3M7npa1MXOx8icxdIKGf0",
+            "id": "PLVoXyJtfHw0iNwHingkgYvL_QkHD6A8dc",
+            "snippet": {
+                "publishedAt": "2022-11-14T05:19:05Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Interesting games",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4pKJ-NuSjNE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4pKJ-NuSjNE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4pKJ-NuSjNE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4pKJ-NuSjNE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4pKJ-NuSjNE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Interesting games",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 8
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "MDqfd37lE8TCzvyPu1kD0KSTi20",
+            "id": "PLVoXyJtfHw0hE2TAuA6G1pSLWHs8zt9op",
+            "snippet": {
+                "publishedAt": "2022-11-11T16:51:18Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Spanish Guitar",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GuzPgVoVnW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GuzPgVoVnW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GuzPgVoVnW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GuzPgVoVnW4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GuzPgVoVnW4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Spanish Guitar",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XRmOFSBu8oliAJBt06KAsA-pQRw",
+            "id": "PLVoXyJtfHw0jHM8iSmYHBmzAyA5UN4_1m",
+            "snippet": {
+                "publishedAt": "2022-11-10T14:41:40Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Nakuru Aitsuki - Whisper",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pmkp2-Fe1j8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pmkp2-Fe1j8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pmkp2-Fe1j8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pmkp2-Fe1j8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pmkp2-Fe1j8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Nakuru Aitsuki - Whisper",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "g0LzpZPTzTitiVenXvS5Up2M0pY",
+            "id": "PLVoXyJtfHw0j1Z3gEMhOt5EjURwk-8F89",
+            "snippet": {
+                "publishedAt": "2022-11-10T05:59:55Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "remote management",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/232opnNPGNo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/232opnNPGNo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/232opnNPGNo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/232opnNPGNo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/232opnNPGNo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "remote management",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cVqkjT6TlAvRpFxJNGb4qW4AsNM",
+            "id": "PLVoXyJtfHw0h3TNb_Ivwe3RmAYtGs8Vh3",
+            "snippet": {
+                "publishedAt": "2022-11-10T02:51:07Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese-001",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese-001",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 84
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "rEmFrSfCLzcwwJzy37SPNAzLF_8",
+            "id": "PLVoXyJtfHw0iBfT7lZ9_4bbfoV19gr0uF",
+            "snippet": {
+                "publishedAt": "2022-11-05T04:52:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Cepheid",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/26W7rVonsEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/26W7rVonsEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/26W7rVonsEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/26W7rVonsEs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/26W7rVonsEs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Cepheid",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 21
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IwWfLGuFE_AXYrUiwd5Zb4c7RRs",
+            "id": "PLVoXyJtfHw0jyeYoguZhaMYx-qCdj2Q7s",
+            "snippet": {
+                "publishedAt": "2022-11-02T07:03:42Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "New Laptop",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m8lsUvil_S8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m8lsUvil_S8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m8lsUvil_S8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m8lsUvil_S8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m8lsUvil_S8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "New Laptop",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3F6nyhpiWEX3poZeUXsAyEXn5Rk",
+            "id": "PLVoXyJtfHw0jTUhgoQSurC_52SV6sHUPh",
+            "snippet": {
+                "publishedAt": "2022-11-02T06:05:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Heavy Voices",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Sn0PSAqPn8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Sn0PSAqPn8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Sn0PSAqPn8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Sn0PSAqPn8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Sn0PSAqPn8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Heavy Voices",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IjvjGybojkzOvZl_4-Wje2o4_sQ",
+            "id": "PLVoXyJtfHw0ghKkbIjdADaF95zA8vxBlR",
+            "snippet": {
+                "publishedAt": "2022-10-29T07:27:32Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "DIY",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eP3xJIJ-TbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eP3xJIJ-TbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eP3xJIJ-TbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eP3xJIJ-TbU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eP3xJIJ-TbU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "DIY",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 31
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dddSmvHMtMdDFq43d5VGG03gS6c",
+            "id": "PLVoXyJtfHw0gBD0iVnCwkoEunzSVE5Ua0",
+            "snippet": {
+                "publishedAt": "2022-10-29T06:43:26Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "cleaning",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2H6AeMYvMsY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2H6AeMYvMsY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2H6AeMYvMsY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2H6AeMYvMsY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2H6AeMYvMsY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "cleaning",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "DMMXAnr1fwGpmG_hJ5QH6hwgfVg",
+            "id": "PLVoXyJtfHw0g-Y5K_ixmya0lljN7oPGu1",
+            "snippet": {
+                "publishedAt": "2022-10-29T02:57:57Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Nakuru Aitsuki",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Nakuru Aitsuki",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 47
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Hkc5QKzxpbwkLkGMPmypCB3jZOs",
+            "id": "PLVoXyJtfHw0ifKDdFcMNpN9wyF-vKM9f8",
+            "snippet": {
+                "publishedAt": "2022-10-29T02:10:08Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "cyber eerie",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xjfm-ylgq9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "cyber eerie",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dvDCj2Ixn_epDOvbP_qDvSnK-tc",
+            "id": "PLVoXyJtfHw0hrdOwmOOQ7eUnxtdN60TIL",
+            "snippet": {
+                "publishedAt": "2022-10-29T00:46:29Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Mystical",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mOYNyQQlbMA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mOYNyQQlbMA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mOYNyQQlbMA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mOYNyQQlbMA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mOYNyQQlbMA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Mystical",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "R9U6XauO_Bk4aBo7ESB3fN7HpBc",
+            "id": "PLVoXyJtfHw0jXDu6EHq2OzXt67dNu0Fu5",
+            "snippet": {
+                "publishedAt": "2022-10-29T00:03:42Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Traditional Trance",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R-05bTD0ObM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R-05bTD0ObM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R-05bTD0ObM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R-05bTD0ObM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R-05bTD0ObM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Traditional Trance",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WYWsO77NMk5onlvL2PpdQ1dtT7I",
+            "id": "PLVoXyJtfHw0ggP8xVICI1D4y-hPDfCAUG",
+            "snippet": {
+                "publishedAt": "2022-10-28T21:38:35Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Wagakki Band",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H9Y-Ozrrbr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H9Y-Ozrrbr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H9Y-Ozrrbr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H9Y-Ozrrbr4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H9Y-Ozrrbr4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Wagakki Band",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 102
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "yIzm3xtjovGOOWrI6chuYl0Ui2U",
+            "id": "PLVoXyJtfHw0i4tGt2vUSJTngYq_rE2m-7",
+            "snippet": {
+                "publishedAt": "2022-10-28T00:16:08Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Hotaru Murasaki (\u7d2b\u54b2\u307b\u305f\u308b)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Hotaru Murasaki (\u7d2b\u54b2\u307b\u305f\u308b)",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 20
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "uwKM5fVSnQUdTbWHv_IMQDUAyBg",
+            "id": "PLVoXyJtfHw0hU43_6zjB11uu54MxXbD5s",
+            "snippet": {
+                "publishedAt": "2022-10-26T20:00:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Power Metal - heavenly - virus",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z4LEIOpJ5yQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z4LEIOpJ5yQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z4LEIOpJ5yQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z4LEIOpJ5yQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z4LEIOpJ5yQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Power Metal - heavenly - virus",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_raQeI1QH1ZO3raWoy2w-x5I_ew",
+            "id": "PLVoXyJtfHw0jILPGp58stNc2RTjI_CTvv",
+            "snippet": {
+                "publishedAt": "2022-10-24T06:06:52Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Winter Cozy & Bushcraft",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uz3Lyq2pZdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uz3Lyq2pZdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uz3Lyq2pZdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uz3Lyq2pZdE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uz3Lyq2pZdE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Winter Cozy & Bushcraft",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "NX4h_j0OdUgWRwX-eut8ezDA--0",
+            "id": "PLVoXyJtfHw0jhVVthMDVvyCvAKmkBMh9P",
+            "snippet": {
+                "publishedAt": "2022-10-22T03:05:30Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Ariabl'eyeS - Keikan no Senritsu",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hKBsrjw5D1U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hKBsrjw5D1U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hKBsrjw5D1U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hKBsrjw5D1U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hKBsrjw5D1U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Ariabl'eyeS - Keikan no Senritsu",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "stDjLbubz9zbmuZK0Il5Eqtab5c",
+            "id": "PLVoXyJtfHw0hrOIk1I7yAlNOtWbn3hOih",
+            "snippet": {
+                "publishedAt": "2022-10-22T01:32:45Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "gothic lolita",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mH5HjmIsPp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mH5HjmIsPp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mH5HjmIsPp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mH5HjmIsPp0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mH5HjmIsPp0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "gothic lolita",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "B4X2sNJDSbmo-bQ7DSfP5r4BDV4",
+            "id": "PLVoXyJtfHw0inehq2evabAk4xVfwBBbDZ",
+            "snippet": {
+                "publishedAt": "2022-10-22T01:31:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Ariabl'eyeS Singer A",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CEoz1yrNSI0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CEoz1yrNSI0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CEoz1yrNSI0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CEoz1yrNSI0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CEoz1yrNSI0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Ariabl'eyeS Singer A",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LdsVAbJGSXJhhrYHR3EyiM5M_cM",
+            "id": "PLVoXyJtfHw0hpbPJmvrmW3WyHwAB71ulN",
+            "snippet": {
+                "publishedAt": "2022-10-18T20:39:58Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "EastNewSound",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sb7xtXmMMQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sb7xtXmMMQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sb7xtXmMMQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Sb7xtXmMMQ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Sb7xtXmMMQ8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "EastNewSound",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "kgSPwSjXhxXVQr0nW3aTQzvRdLY",
+            "id": "PLVoXyJtfHw0gKzwS2azagJz9uKFplUkHG",
+            "snippet": {
+                "publishedAt": "2022-10-16T04:33:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Lock Pick",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S2dvlIVMV_A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S2dvlIVMV_A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S2dvlIVMV_A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S2dvlIVMV_A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S2dvlIVMV_A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Lock Pick",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "mMm3U1M2QzXQm0kSYik4kfokCvc",
+            "id": "PLVoXyJtfHw0gOEr8ydhPh5AU5Z5m97dG8",
+            "snippet": {
+                "publishedAt": "2022-10-15T06:08:50Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "sewing",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EZngDWBk0xE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EZngDWBk0xE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EZngDWBk0xE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EZngDWBk0xE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EZngDWBk0xE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "sewing",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_cqmFB47zXYoU2KzG4P5iNstFqI",
+            "id": "PLVoXyJtfHw0gDXXoTUi95XNOs96pnroAG",
+            "snippet": {
+                "publishedAt": "2022-10-15T03:57:02Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "MFC VS2013",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2oZYgEFgm0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2oZYgEFgm0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2oZYgEFgm0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2oZYgEFgm0Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2oZYgEFgm0Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "MFC VS2013",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "f-2ZEd4F5xg9CRqEJ1d9C8Kz9bk",
+            "id": "PLVoXyJtfHw0gOskPddjTeBNm7E2J5zOTz",
+            "snippet": {
+                "publishedAt": "2022-10-14T23:54:49Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "EastNewSound Singer C (My Tears)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yLhhzpQZpUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "EastNewSound Singer C (My Tears)",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,2307 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "AVcTyn3TX4Jg20PGSSjN7dyywbw",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+        "totalResults": 294,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "MrwTADTVAv8_x3YfEy9z3OCMWRc",
+            "id": "PLVoXyJtfHw0g3xBIvu210zoZBuAF7USyu",
+            "snippet": {
+                "publishedAt": "2023-02-26T06:08:08Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "ambiance - to explore",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E8XKj1qxJD4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E8XKj1qxJD4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E8XKj1qxJD4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E8XKj1qxJD4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E8XKj1qxJD4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "ambiance - to explore",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 6
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Vql5MF_ceSB9QCTCw8BBOTYVstc",
+            "id": "PLVoXyJtfHw0h1ANMhXeoEW1CmBr3gLI8S",
+            "snippet": {
+                "publishedAt": "2023-02-25T18:49:18Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Trilling, Glittering, Fluttering Sounds (Guitar etc)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Trilling, Glittering, Fluttering Sounds (Guitar etc)",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "nHAAdACeSszgpzO0yopIU0WjEPM",
+            "id": "PLVoXyJtfHw0i1rsrWKfZ39-2geWYdYCeG",
+            "snippet": {
+                "publishedAt": "2023-02-25T18:42:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "J Lovesick - Crying & Pleading",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w0UiyOmqvwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "J Lovesick - Crying & Pleading",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "xnt6OZScHXyy2Yr76VoPfK-mN0o",
+            "id": "PLVoXyJtfHw0j90NkzeOtaUpqztAdNzLg_",
+            "snippet": {
+                "publishedAt": "2023-02-25T18:21:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Bishoujo Radio 003",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CqlBmb_JKh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CqlBmb_JKh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CqlBmb_JKh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CqlBmb_JKh4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CqlBmb_JKh4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Bishoujo Radio 003",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "FVEbJDHN_IkksF0lvjQY_s9KDx0",
+            "id": "PLVoXyJtfHw0gLZVlJYTtIpdlZGgHbhSrZ",
+            "snippet": {
+                "publishedAt": "2023-02-25T18:02:14Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Onna No Hito",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Onna No Hito",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 19
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3rxIu1sm8u2ki8MnqY2PQo4c3tU",
+            "id": "PLVoXyJtfHw0g3Kllt27y8tutA_ql7KEv7",
+            "snippet": {
+                "publishedAt": "2023-02-25T18:01:06Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Hikaru Utada",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H_Gu6Eg-QZs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Hikaru Utada",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "nSg3mupbCOQ4Pfbzp9T_YZmnQbQ",
+            "id": "PLVoXyJtfHw0huqIAM86w0zWCIudlzaWRW",
+            "snippet": {
+                "publishedAt": "2023-02-25T03:00:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "drunk vibes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/au6ueW-iIAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/au6ueW-iIAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/au6ueW-iIAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/au6ueW-iIAM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/au6ueW-iIAM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "drunk vibes",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "1m4hDqmk3CVwRIECk_jN0uQUScg",
+            "id": "PLVoXyJtfHw0iTXtRSLKuy-W5rBNsVI3wX",
+            "snippet": {
+                "publishedAt": "2023-02-24T21:13:36Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "j funk & disco",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/51zlLbwxEzY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/51zlLbwxEzY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/51zlLbwxEzY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/51zlLbwxEzY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/51zlLbwxEzY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "j funk & disco",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cXcDhnn6rrv2yIm0Hulvd6UaR6w",
+            "id": "PLVoXyJtfHw0hS5ccQny5sc6Yi8NPjAOJV",
+            "snippet": {
+                "publishedAt": "2023-02-24T18:08:41Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "planty",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9klPRLcnVbI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9klPRLcnVbI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9klPRLcnVbI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9klPRLcnVbI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9klPRLcnVbI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "planty",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "efoNIBmUYvhXLyl9kQpO5j8FUkc",
+            "id": "PLVoXyJtfHw0hGAL83lVoOsLZbVRwcHzH8",
+            "snippet": {
+                "publishedAt": "2023-02-19T19:26:40Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "002 - Background Music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/37d_JJUKTdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/37d_JJUKTdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/37d_JJUKTdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/37d_JJUKTdk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/37d_JJUKTdk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "002 - Background Music",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "kLZ0x9SWyg-WZRCerC2WE9pXBRE",
+            "id": "PLVoXyJtfHw0jFTjWJiIWPgP8KAULovzFg",
+            "snippet": {
+                "publishedAt": "2023-02-19T17:42:51Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "cowboy bebop",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o1Bz0nniMg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o1Bz0nniMg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o1Bz0nniMg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o1Bz0nniMg0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o1Bz0nniMg0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "cowboy bebop",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fhprAy2Hr27D303GXAiKzDfsasE",
+            "id": "PLVoXyJtfHw0iP5W9aWIZnrMZFFf93FT8K",
+            "snippet": {
+                "publishedAt": "2023-02-18T01:30:37Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Bishojo Radio 000",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Bishojo Radio 000",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 46
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "eLIt7VCN8bakUOWiYgWXlWC71vE",
+            "id": "PLVoXyJtfHw0inxyVxQDloPqaP6WE-gabj",
+            "snippet": {
+                "publishedAt": "2023-02-18T00:48:31Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Japanese - 006",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rwxX90-KZOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rwxX90-KZOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rwxX90-KZOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rwxX90-KZOY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rwxX90-KZOY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Japanese - 006",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LUTZhXAq4z1qHYxkpeVahzjUExw",
+            "id": "PLVoXyJtfHw0gGalU4kjHTeXz1Fk05RvBg",
+            "snippet": {
+                "publishedAt": "2023-02-17T22:55:00Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "DnB Beat",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wefOI4tnW08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "DnB Beat",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6OKsPe0WiXZ3yyKF9jRxq7vjoRY",
+            "id": "PLVoXyJtfHw0jHD0yPCpAfEbSvAz4Y67yF",
+            "snippet": {
+                "publishedAt": "2023-02-17T22:24:28Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "001 - Singer to Explore",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EX5SaF29P1o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EX5SaF29P1o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EX5SaF29P1o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EX5SaF29P1o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EX5SaF29P1o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "001 - Singer to Explore",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 8
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "z7sgeFbODGBC7s7d8XNi-FrGdEs",
+            "id": "PLVoXyJtfHw0huiu_o4s6horfBz_iAAt-P",
+            "snippet": {
+                "publishedAt": "2023-02-17T17:18:49Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Bass Melodic",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ORilvBhx-eo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ORilvBhx-eo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ORilvBhx-eo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ORilvBhx-eo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ORilvBhx-eo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Bass Melodic",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "QsKwluwADxihblWI3UPF86I97bA",
+            "id": "PLVoXyJtfHw0i9iSmkq9kYOVuGmBPw6_ZJ",
+            "snippet": {
+                "publishedAt": "2023-02-17T17:00:24Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Sheena Ringo - Albums & Singles",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iJonLzr_6z0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iJonLzr_6z0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iJonLzr_6z0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iJonLzr_6z0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iJonLzr_6z0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Sheena Ringo - Albums & Singles",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 222
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "hb5p8Xblfkv_PVeNuxZ_9vfkjmA",
+            "id": "PLVoXyJtfHw0iisr5fKO_eV7-ImxF_twX0",
+            "snippet": {
+                "publishedAt": "2023-02-16T22:13:21Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "ambiance - Bird Sounds",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tpZjV9WzFtE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tpZjV9WzFtE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tpZjV9WzFtE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tpZjV9WzFtE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tpZjV9WzFtE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "ambiance - Bird Sounds",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "t8-xJmaNsMGrwHFXLHIdZZ2aDrU",
+            "id": "PLVoXyJtfHw0ioM4PhLH7fsDYbMfsDXPuW",
+            "snippet": {
+                "publishedAt": "2023-02-16T22:12:12Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "ambiance - Meditative; Zen Sounds",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AFtoouvmhlo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AFtoouvmhlo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AFtoouvmhlo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AFtoouvmhlo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AFtoouvmhlo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "ambiance - Meditative; Zen Sounds",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PIjh7r4JnejK5l8NBmObVlbCybo",
+            "id": "PLVoXyJtfHw0iJItUX-EB1YhdEyRVX31DU",
+            "snippet": {
+                "publishedAt": "2023-02-16T04:20:19Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "learn embedded systems",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rcxCH5ue5Us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rcxCH5ue5Us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rcxCH5ue5Us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rcxCH5ue5Us/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rcxCH5ue5Us/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "learn embedded systems",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 8
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "35ph7p0LHeSarnbSZS_ralZ0hMA",
+            "id": "PLVoXyJtfHw0jAq4ALXkkz7mcPRmA6QEYg",
+            "snippet": {
+                "publishedAt": "2023-02-15T01:48:45Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Synthwave - Hotel Pools",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-az9ktEWL8Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-az9ktEWL8Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-az9ktEWL8Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-az9ktEWL8Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-az9ktEWL8Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Synthwave - Hotel Pools",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 68
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6IoWAG2IFehxHubfyJ94reQ7SQc",
+            "id": "PLVoXyJtfHw0h3BrSewrjVbvfJi1005CZD",
+            "snippet": {
+                "publishedAt": "2023-02-14T21:29:00Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "EVO+ - Addiction",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ymkncu2h4_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ymkncu2h4_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ymkncu2h4_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ymkncu2h4_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ymkncu2h4_o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "EVO+ - Addiction",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7bJP7tZYmcYfhyiJR8sR_igaShk",
+            "id": "PLVoXyJtfHw0jAIwIEKiuLpAkCL7y_FJMp",
+            "snippet": {
+                "publishedAt": "2023-02-13T07:31:17Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "EQ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i_tkCEiWLuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i_tkCEiWLuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i_tkCEiWLuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i_tkCEiWLuM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i_tkCEiWLuM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "EQ",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PC1jVRcHcs8LYMWeDit3FsPGRsI",
+            "id": "PLVoXyJtfHw0j-ozGGqgBxj1EL1t-ML3y1",
+            "snippet": {
+                "publishedAt": "2023-02-12T23:36:08Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Calming Jazz",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_A9GTk8v2CY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_A9GTk8v2CY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_A9GTk8v2CY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_A9GTk8v2CY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_A9GTk8v2CY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Calming Jazz",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Hpbi05lRMrVo9tjs91Dhejs2-Yo",
+            "id": "PLVoXyJtfHw0gMcUzG7cfDXwdeb6-yEgMD",
+            "snippet": {
+                "publishedAt": "2023-02-12T05:50:35Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "japanese practice",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AkkzRbZMmA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AkkzRbZMmA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AkkzRbZMmA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AkkzRbZMmA8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AkkzRbZMmA8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "japanese practice",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "5n_4IMwfKiB7N8a6YIUKnmON1Jg",
+            "id": "PLVoXyJtfHw0hCNrLmhltBZ7T6a3X_67CC",
+            "snippet": {
+                "publishedAt": "2023-02-08T23:45:28Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Sheena Ringo Jazz Core Fusion",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Sheena Ringo Jazz Core Fusion",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 22
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9lFxTV9l04Yy_eJ8cCF4jvEHKWE",
+            "id": "PLVoXyJtfHw0ipfiLa3Ef-sOdFd2MYyY9V",
+            "snippet": {
+                "publishedAt": "2023-02-08T15:48:10Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Enon",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_P914oKMm14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_P914oKMm14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_P914oKMm14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_P914oKMm14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_P914oKMm14/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Enon",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7B1K7N_0dtkNxBtoe30Z3er6uzM",
+            "id": "PLVoXyJtfHw0gf3byyC7wnwdVBRWqoTT2K",
+            "snippet": {
+                "publishedAt": "2023-02-06T07:48:16Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "sushi - still moving",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZpJW1OAHKK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZpJW1OAHKK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZpJW1OAHKK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZpJW1OAHKK4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZpJW1OAHKK4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "sushi - still moving",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "RgKuVhoYc4tL4RT38lBvqdMz18k",
+            "id": "PLVoXyJtfHw0gF4KaAE6xyyf8qxGyHJETo",
+            "snippet": {
+                "publishedAt": "2023-02-06T07:07:18Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "concentration background music - chill version 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xLCLLflYURw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xLCLLflYURw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xLCLLflYURw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xLCLLflYURw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xLCLLflYURw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "concentration background music - chill version 2",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "12JmKgjwiVoAzoVf7Pvhtt2ZBqs",
+            "id": "PLVoXyJtfHw0gkLxh9VpOD5huM5rCVVioP",
+            "snippet": {
+                "publishedAt": "2023-02-06T07:01:13Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Early Music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_HnMuXxJAMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_HnMuXxJAMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_HnMuXxJAMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_HnMuXxJAMw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_HnMuXxJAMw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Early Music",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "lkRq8AUxHRM0cLT8Y-kwpX76KNo",
+            "id": "PLVoXyJtfHw0jLypBAvV182nLzLRcMvyXh",
+            "snippet": {
+                "publishedAt": "2023-02-05T19:19:54Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Sheena Ringo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u6YvrAP7iIs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Sheena Ringo",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 19
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YSDMB7xpH4LXAEV59P19amoFJj8",
+            "id": "PLVoXyJtfHw0jmal_svNGvG1kDeKqVcIBM",
+            "snippet": {
+                "publishedAt": "2023-02-04T17:12:29Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Okinawans",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8QXS5e8j-XE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8QXS5e8j-XE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8QXS5e8j-XE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8QXS5e8j-XE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8QXS5e8j-XE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Okinawans",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_1na2vqoIJwMA1KT8vKybEm6G8g",
+            "id": "PLVoXyJtfHw0g9-MP7_RFMVQ4KZAwBBkhC",
+            "snippet": {
+                "publishedAt": "2023-02-03T20:37:49Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "calming trance",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ds8S7fIbxUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "calming trance",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9cFemMvRsQTKTPltTE0j8pBH3eA",
+            "id": "PLVoXyJtfHw0jUX2eoJ-ER1V9_gk4gXK3w",
+            "snippet": {
+                "publishedAt": "2023-02-03T00:00:31Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "3L",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/05RnRSVkNG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/05RnRSVkNG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/05RnRSVkNG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/05RnRSVkNG0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/05RnRSVkNG0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "3L",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "bgKqeEQ9aNAGCfUKpvQ5C5cFIxc",
+            "id": "PLVoXyJtfHw0hgr9RP8gVd7NMcF2RD6X_c",
+            "snippet": {
+                "publishedAt": "2023-02-02T03:28:32Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "\u30b2\u30fc\u30e0\u3063\u307d\u3044",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xOjbGw-CfHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xOjbGw-CfHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xOjbGw-CfHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xOjbGw-CfHk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xOjbGw-CfHk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "\u30b2\u30fc\u30e0\u3063\u307d\u3044",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "gc99NBnwgbpCgl1hKWat1Vyl_ro",
+            "id": "PLVoXyJtfHw0gkN1DT6SWPSrUVFxWYuKE4",
+            "snippet": {
+                "publishedAt": "2023-02-02T02:34:25Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "yana",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "yana",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LB8l6tSm_dMlxrLCsaYBWeMV-W8",
+            "id": "PLVoXyJtfHw0hSjq7ZbfjyHBZdok6zD64j",
+            "snippet": {
+                "publishedAt": "2023-02-02T02:28:41Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Shibayan's Girls",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/76tmFiQQxPY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Shibayan's Girls",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Gu35zWUoFh8_4ACQD3B516xDcoM",
+            "id": "PLVoXyJtfHw0jBDW3Uu_Ev6yG3j962v_Bc",
+            "snippet": {
+                "publishedAt": "2023-01-31T07:15:34Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "90's & 2000's Rock - Tomas",
+                "description": "Mix of a type of stuff I like from back then. But also other stuff that goes good with it. Initial playlist auto generated by YTM, and tweaked by me.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xCmA1uC0r9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xCmA1uC0r9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xCmA1uC0r9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xCmA1uC0r9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xCmA1uC0r9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "90's & 2000's Rock - Tomas",
+                    "description": "Mix of a type of stuff I like from back then. But also other stuff that goes good with it. Initial playlist auto generated by YTM, and tweaked by me."
+                }
+            },
+            "contentDetails": {
+                "itemCount": 72
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XwbxNOsNHGP0HLHsDcv-eWLxppg",
+            "id": "PLVoXyJtfHw0ioH4YWNvrfn0Rck8nOjWkF",
+            "snippet": {
+                "publishedAt": "2023-01-31T05:58:59Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Cry Rock",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BsdXUx61un8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BsdXUx61un8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BsdXUx61un8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BsdXUx61un8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BsdXUx61un8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Cry Rock",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "hjS6wonntPMrXvgY4w6GFm0Gpjw",
+            "id": "PLVoXyJtfHw0gQ4qHFHLsH6zy2SfHB90Gh",
+            "snippet": {
+                "publishedAt": "2023-01-31T03:57:59Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "sushi chill - background videos to watch while chilling and eating sushi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H8ajqjiYxXs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H8ajqjiYxXs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H8ajqjiYxXs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H8ajqjiYxXs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H8ajqjiYxXs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "sushi chill - background videos to watch while chilling and eating sushi",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "isM6OQYVPMdIBtAlt3uuVBB42ME",
+            "id": "PLVoXyJtfHw0gXEXn98DWg7V_M5uV-QAM2",
+            "snippet": {
+                "publishedAt": "2023-01-29T14:10:32Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Upbeat Classical",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wtm1aA4OPfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wtm1aA4OPfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wtm1aA4OPfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wtm1aA4OPfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wtm1aA4OPfc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Upbeat Classical",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "2EcOzZ4QZ1U5iQ5B0ud0EILkXnk",
+            "id": "PLVoXyJtfHw0jGGN3P2NvLhU-whJtip6Qz",
+            "snippet": {
+                "publishedAt": "2023-01-29T07:41:28Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "math",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OHw8ReqH968/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OHw8ReqH968/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OHw8ReqH968/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OHw8ReqH968/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "math",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 6
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "bNP2b-fi9XNHmHjFxXLjFjfH_IA",
+            "id": "PLVoXyJtfHw0giOwuAVLRPpwzYK6gr5uBx",
+            "snippet": {
+                "publishedAt": "2023-01-26T00:14:50Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Rinko - Daoko",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9T-AEue5dig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9T-AEue5dig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9T-AEue5dig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9T-AEue5dig/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9T-AEue5dig/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Rinko - Daoko",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "khyuF5NgJDrtpZog-rFJTq6sMCE",
+            "id": "PLVoXyJtfHw0huFHt-EWU7L8sJzu0W8BX_",
+            "snippet": {
+                "publishedAt": "2023-01-20T04:14:37Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Volume Issue 2",
+                "description": "normal LOUD normal",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ArYuvaJuDIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ArYuvaJuDIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ArYuvaJuDIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ArYuvaJuDIM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ArYuvaJuDIM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Volume Issue 2",
+                    "description": "normal LOUD normal"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "anSzRwu_dk__q3xTJ9j4_1G7KV0",
+            "id": "PLVoXyJtfHw0hSP8qlBDwLPx5KJovG-RJK",
+            "snippet": {
+                "publishedAt": "2023-01-13T02:33:40Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "kiss me - six pence",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K2tbQ_g2VbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K2tbQ_g2VbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K2tbQ_g2VbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K2tbQ_g2VbQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K2tbQ_g2VbQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "kiss me - six pence",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OURftQHG6kkWDEjVD3YTCsmvB6A",
+            "id": "PLVoXyJtfHw0imb9EnulBHQvnMoQHQcZlV",
+            "snippet": {
+                "publishedAt": "2023-01-11T21:45:12Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Sound Test",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4w1VU_OkCYQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4w1VU_OkCYQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4w1VU_OkCYQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4w1VU_OkCYQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4w1VU_OkCYQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Sound Test",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Q7xHCdgc97YuN5WbwuDbzkcKD6A",
+            "id": "PLVoXyJtfHw0jwWNDz4sAzWE4O161Cxab3",
+            "snippet": {
+                "publishedAt": "2023-01-11T14:38:41Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Proximal Hamstring Tendinopathy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x9qUThV02no/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x9qUThV02no/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x9qUThV02no/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x9qUThV02no/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x9qUThV02no/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Proximal Hamstring Tendinopathy",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "JCHcFwHNn7u9XMh7RmudlQ1I6Fg",
+            "id": "PLVoXyJtfHw0giZBs7FdHuuhAplwEfSAEL",
+            "snippet": {
+                "publishedAt": "2023-01-06T03:41:38Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Yandere",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mySDvVo71gU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mySDvVo71gU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mySDvVo71gU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mySDvVo71gU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mySDvVo71gU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Yandere",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "m33E3cfH0zG72yBEz4xgP5xt8bQ",
+            "id": "PLVoXyJtfHw0iDa8CdMvTTdN2CK2T5yMqG",
+            "snippet": {
+                "publishedAt": "2023-01-06T03:13:14Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Ohwoo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BTarPbgOUKI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BTarPbgOUKI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BTarPbgOUKI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BTarPbgOUKI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BTarPbgOUKI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Ohwoo",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "UX_c7ucDvBGcWtbbln2bBf0qdxw",
+            "id": "PLVoXyJtfHw0gY0bdXbxNeG6LSAyF4d6HJ",
+            "snippet": {
+                "publishedAt": "2023-01-04T15:47:16Z",
+                "channelId": "UCKWhX7Sei5el7USJJaupZrA",
+                "title": "Classical Japanese Music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pdt2MDi2ysE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pdt2MDi2ysE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pdt2MDi2ysE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pdt2MDi2ysE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pdt2MDi2ysE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tomas Ramirez",
+                "localized": {
+                    "title": "Classical Japanese Music",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        }
+    ]
+}
