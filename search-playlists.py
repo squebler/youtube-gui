@@ -52,14 +52,8 @@ def executeRequest(request, iResponse):
 
 
 def initialize():
-    # if mode == "fake":
-    #     with open("fake-playlists.txt", encoding="utf-8") as fakePlaylistsFile:
-    #         for line in fakePlaylistsFile:
-    #             playlists.append(line.strip())
-    #     playlists.sort(key=str.lower)
-    #     return
 
-    def buildInitialPlaylistsRequest():
+    def buildPlaylistsFirstPageRequest():
         if mode == "fake":
             return None, None
 
@@ -77,7 +71,7 @@ def initialize():
         )
         return request, youtube
     
-    request, youtube = buildInitialPlaylistsRequest()
+    request, youtube = buildPlaylistsFirstPageRequest()
 
     iResponse = -1
     response = executeRequest(request, iResponse := iResponse + 1)
@@ -90,15 +84,14 @@ def initialize():
         print(f"{i}: {playlists[-1]}")
         i+=1
 
-    def buildPlaylistsNextPageRequest(request):
+    def buildPlaylistsNextPageRequest():
         if mode == "fake":
             if getFakeResponse(iResponse+1):
                 return "fakeRequest"
             return None
-        request = youtube.playlists().list_next(previous_request=request, previous_response=response)
-        return request
+        return youtube.playlists().list_next(previous_request=request, previous_response=response)
 
-    while request := buildPlaylistsNextPageRequest(request):
+    while request := buildPlaylistsNextPageRequest():
         response = executeRequest(request, iResponse := iResponse + 1)
         
         for playlist in response["items"]:
@@ -132,7 +125,7 @@ def search():
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 client_secrets_file = 'client_secret.json'
 playlists = []
-mode = "real"
+mode = "fake"
 
 
 fontSize = 25
