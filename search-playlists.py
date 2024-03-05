@@ -1,9 +1,11 @@
+from functools import partial
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 import json
 import os
 from requests import HTTPError
 import tkinter as tk
+import webbrowser
 
 
 def getFakeResponseFileName(iResponse):
@@ -102,7 +104,6 @@ def initialize():
     playlists.sort(key=lambda pl: pl["title"].lower())
 
 
-from functools import partial
 def set_list(playlists):
     for widget in frame_playlist.winfo_children():
         widget.destroy()
@@ -110,10 +111,13 @@ def set_list(playlists):
     rowOn = 0
     for pl in playlists:
         btn_plCopyUrl = tk.Button(master=frame_playlist, font=fontRowButton, text="Copy URL", command=partial(copyUrlToClipboard, pl["url"]))
-        btn_plCopyUrl.grid(row=rowOn, column=0, pady=10, padx=10)
+        btn_plCopyUrl.grid(row=rowOn, column=0, pady=10, padx=(10,0))
+
+        btn_plOpenUrl = tk.Button(master=frame_playlist, font=fontRowButton, text="Open", command=partial(openUrl, pl["url"]))
+        btn_plOpenUrl.grid(row=rowOn, column=1, pady=10, padx=(5,0))
 
         entry_plTitle = tk.Entry(master=frame_playlist, font=font, width=30, borderwidth=0)
-        entry_plTitle.grid(row=rowOn, column=1, pady=10, padx=5)
+        entry_plTitle.grid(row=rowOn, column=2, pady=10, padx=(10,10))
         entry_plTitle.insert(tk.END, pl["title"])
 
         rowOn += 1
@@ -134,6 +138,10 @@ def copyUrlToClipboard(url):
     window.clipboard_append(url)
     window.update()
 
+
+def openUrl(url):
+    print(f"url: {url}")
+    webbrowser.open_new_tab(url)
 
 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
