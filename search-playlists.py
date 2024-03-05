@@ -122,6 +122,11 @@ def set_list(playlists):
 
         rowOn += 1
 
+    # update_idletasks causes the drawing of the widgets we just added
+    frame_playlist.update_idletasks()
+    # bbox computes the bounding box of all objects currently drawn on the canvas
+    canvas_scrollArea.config(scrollregion=canvas_scrollArea.bbox("all"))
+
 
 def search():
     query = entry_search.get()
@@ -157,17 +162,28 @@ fontRowButton = ("Arial",fontSizeRowButton)
 
 window = tk.Tk()
 window.title("youtube")
+window.geometry("765x900")
 
 entry_search = tk.Entry(master=window, width=30, font=font)
-entry_search.pack()
+entry_search.pack(anchor="nw", padx=10, pady=(10,0))
 
-btn_search = tk.Button(master=window, text="Search", command=search, font=font, width=8, height=2)
-btn_search.pack()
+btn_search = tk.Button(master=window, text="Search", command=search, font=fontRowButton)
+btn_search.pack(anchor="w", padx=10, pady=5)
 
 window.bind('<Return>', lambda event=None: btn_search.invoke())
 
-frame_playlist = tk.Frame(master=window, bg="white")
-frame_playlist.pack()
+# I guess the following is how you're supposed to setup a scrollbar for a frame.
+# Not sure because I got it from ChatGPT. It works, but might be a simpler way?
+
+canvas_scrollArea = tk.Canvas(master=window)
+scrollbar = tk.Scrollbar(master=window, orient="vertical", command=canvas_scrollArea.yview)
+canvas_scrollArea.configure(yscrollcommand=scrollbar.set)
+
+scrollbar.pack(side="right", fill="y", pady=(10,0))
+canvas_scrollArea.pack(side="left", fill="both", expand=True, pady=(10,0))
+
+frame_playlist = tk.Frame(master=canvas_scrollArea, bg="white")
+canvas_scrollArea.create_window((0,0), window=frame_playlist, anchor="nw")
 
 
 initialize()
