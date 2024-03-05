@@ -140,6 +140,8 @@ entry_search.pack()
 btn_search = tk.Button(master=window, text="Search", command=search, font=font, width=8, height=2)
 btn_search.pack()
 
+window.bind('<Return>', lambda event=None: btn_search.invoke())
+
 text_list = tk.Text(master=window, state=tk.DISABLED, font=font, width=30, height=30)
 text_list.pack()
 
