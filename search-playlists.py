@@ -56,9 +56,8 @@ def initialize():
         saveFakeResponse(response, iResponse)
         return response
 
-    iResponse = 0
-    response = executeRequest(request, iResponse)
-    iResponse += 1
+    iResponse = -1
+    response = executeRequest(request, iResponse := iResponse + 1)
 
     i = 1
     for playlist in response["items"]:
@@ -69,8 +68,7 @@ def initialize():
         i+=1
 
     while request := youtube.playlists().list_next(previous_request=request, previous_response=response):
-        response = executeRequest(request, iResponse)
-        iResponse += 1
+        response = executeRequest(request, iResponse := iResponse + 1)
         
         for playlist in response["items"]:
             title = playlist['snippet']['title']
