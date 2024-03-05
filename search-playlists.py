@@ -76,13 +76,17 @@ def initialize():
     iResponse = -1
     response = executeRequest(request, iResponse := iResponse + 1)
 
-    i = 1
-    for playlist in response["items"]:
-        title = playlist['snippet']['title']
-        url = f"https://www.youtube.com/playlist?list={playlist['id']}"
-        playlists.append(f"{title}\n{url}")
-        print(f"{i}: {playlists[-1]}")
-        i+=1
+    def extractPlaylistDataFromResponse():
+        nonlocal iPlaylist
+        for playlist in response["items"]:
+            title = playlist['snippet']['title']
+            url = f"https://www.youtube.com/playlist?list={playlist['id']}"
+            playlists.append({"title":title, "url":url})
+            print(f"{iPlaylist}: {playlists[-1]}")
+            iPlaylist+=1
+
+    iPlaylist = 1
+    extractPlaylistDataFromResponse()
 
     def buildPlaylistsNextPageRequest():
         if mode == "fake":
@@ -93,23 +97,26 @@ def initialize():
 
     while request := buildPlaylistsNextPageRequest():
         response = executeRequest(request, iResponse := iResponse + 1)
-        
-        for playlist in response["items"]:
-            title = playlist['snippet']['title']
-            url = f"https://www.youtube.com/playlist?list={playlist['id']}"
-            playlists.append(f"{title}\n{url}")
-            print(f"{i}: {playlists[-1]}")
-            i+=1
+        extractPlaylistDataFromResponse()
 
-    playlists.sort(key=str.lower)
+    playlists.sort(key=lambda pl: pl["title"].lower())
 
 
+from functools import partial
 def set_list(playlists):
-    text_list.config(state=tk.NORMAL)
-    text_list.delete("1.0",tk.END)
+    for widget in frame_playlist.winfo_children():
+        widget.destroy()
+    
+    rowOn = 0
     for pl in playlists:
-        text_list.insert(tk.END,f"{pl}\n\n")
-    text_list.config(state=tk.DISABLED)
+        btn_plCopyUrl = tk.Button(master=frame_playlist, font=fontRowButton, text="Copy URL", command=partial(copyUrlToClipboard, pl["url"]))
+        btn_plCopyUrl.grid(row=rowOn, column=0, pady=10, padx=10)
+
+        entry_plTitle = tk.Entry(master=frame_playlist, font=font, width=30, borderwidth=0)
+        entry_plTitle.grid(row=rowOn, column=1, pady=10, padx=5)
+        entry_plTitle.insert(tk.END, pl["title"])
+
+        rowOn += 1
 
 
 def search():
@@ -117,8 +124,15 @@ def search():
     if not query or len(query:=query.strip().lower()) == 0:
         set_list(playlists)
         return
-    matches = [pl for pl in playlists if query in pl.lower()]
+    matches = [pl for pl in playlists if query in pl["title"].lower()]
     set_list(matches)
+
+
+def copyUrlToClipboard(url):
+    print(f"url: {url}")
+    window.clipboard_clear()
+    window.clipboard_append(url)
+    window.update()
 
 
 
@@ -130,6 +144,8 @@ mode = "fake"
 
 fontSize = 25
 font = ("Arial",fontSize)
+fontSizeRowButton = 15
+fontRowButton = ("Arial",fontSizeRowButton)
 
 window = tk.Tk()
 window.title("youtube")
@@ -142,8 +158,8 @@ btn_search.pack()
 
 window.bind('<Return>', lambda event=None: btn_search.invoke())
 
-text_list = tk.Text(master=window, state=tk.DISABLED, font=font, width=30, height=30)
-text_list.pack()
+frame_playlist = tk.Frame(master=window, bg="white")
+frame_playlist.pack()
 
 
 initialize()
