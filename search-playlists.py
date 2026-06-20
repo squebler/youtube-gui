@@ -4,6 +4,7 @@ from googleapiclient.discovery import build
 import json
 import os
 from requests import HTTPError
+import random
 import tkinter as tk
 import webbrowser
 
@@ -137,6 +138,12 @@ def search():
     set_list(matches)
 
 
+def randomize():
+    shuffled = playlists.copy()
+    random.shuffle(shuffled)
+    set_list(shuffled)
+
+
 def copyUrlToClipboard(url):
     print(f"url: {url}")
     window.clipboard_clear()
@@ -169,6 +176,9 @@ entry_search.pack(anchor="nw", padx=10, pady=(10,0))
 
 btn_search = tk.Button(master=window, text="Search", command=search, font=fontRowButton)
 btn_search.pack(anchor="w", padx=10, pady=5)
+
+btn_randomize = tk.Button(master=window, text="Randomize", command=randomize, font=fontRowButton)
+btn_randomize.pack(anchor="w", padx=10, pady=5)
 
 window.bind('<Return>', lambda event=None: btn_search.invoke())
 
