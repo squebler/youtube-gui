@@ -1,5 +1,5 @@
 # My Custom YouTube GUI
-Working on initial exploratory stuff; creating my own custom YouTube GUI, and training on python at the same time.
+Creating my own custom YouTube GUI.
 
 ## search-playlists.py
 search-playlists.py is a GUI that lets you search your playlists and jump to them quickly. I wanted this because I have a lot of playlists, and I sometimes find videos that I want to save to a specific playlist, but it's hard to find them in the web UI. And this has also resulted in me creating duplicate playlists.
@@ -8,8 +8,30 @@ Set `mode = "fake"` if you want to test without any web requests.
 
 The app only gets the playlists at startup. So if you add/remove/rename your playlists, you'll have to restart to reflect that.
 
+### Running search-playlists.py
+`python search-playlists.py`
 
-# Getting Started with YouTube / Google / OAuth APIs
+This will open a google oauth page in the browser.
+
+# Environment Setup
+I'm working on Windows w just venv and pip.
+
+```
+(Git Bash on Windows)
+python -m venv .venv
+source .venv/Scripts/activate
+pip install -r requirements.txt
+```
+
+Note, to run it, you have to use Command Prompt or PowerShell, or else you get a UnicodeCodeError.
+```
+(Command Prompt)
+.venv\Scripts\activate.bat
+python search-playlists.py
+```
+
+# Reference
+## Getting Started with YouTube / Google / OAuth APIs
 
 Here's basically what I did for search-playlists.py:
 1. Setup project on the Google Cloud Console
@@ -22,7 +44,7 @@ Here's basically what I did for search-playlists.py:
    credentials = flow.run_local_server(open_browser=True)
    ```
 
-## Links
+### Links
 Google OAuth 2.0 Overview  
 https://developers.google.com/identity/protocols/oauth2 
 
